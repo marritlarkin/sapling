@@ -1,11 +1,14 @@
 .footer{
+  background: rgba(255,255,255,.95);
   bottom: 0px;
   clear: both;
   position: relative;
   @media only screen and (min-width: 600px) and (min-height: 750px) { position: absolute; }
-  padding-bottom: 60px;
+  padding-bottom: 55px;
+  padding-top: 55px;
   @media only screen and (min-width: 600px) { width: 100%; }
   text-transform: uppercase;
+  z-index: 1;
 
   .social {
     font-size: 12px;
