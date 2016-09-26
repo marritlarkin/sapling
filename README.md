@@ -37,3 +37,6 @@ Install dependencies with `bundle install`. `gem install bundler` may be necessa
 Run `bundle exec jekyll serve` to compile and serve the site at [localhost:4000](http://localhost:4000).
 
 If you only want to compile, run `bundle exec jekyll build` which will compile the static site into the `_site` folder.
+
+### Sass Notes
+To keep this project super simple, we are not including any task runners (this may change in the future). So, Jekyll handles the Sass compilation on its own. 
