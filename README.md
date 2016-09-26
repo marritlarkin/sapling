@@ -1,6 +1,9 @@
 # Siteleaf-custom-theme
 This is a custom theme for Siteleaf. Currently this theme only accounts for a single page with limited content -- meant to serve as a landing page for your home on the internet.
 
+## This is what it looks like
+![alt text](screenshot.png)
+
 ## How to use it
   - Fork this branch.
   - Connect your Siteleaf site to your Github branch in Settings > Sync > Repo
