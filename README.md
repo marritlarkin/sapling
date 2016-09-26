@@ -24,7 +24,7 @@ This is a custom theme for Siteleaf. Currently this theme only accounts for a si
 
   - The `content` of the page is what shows up in between the tiny lines in the middle of the page
   - The `header` field shows in the top right of the page
-  - The `image` field holds the main site image. (It should be big in resolution but not size. The placeholder is 1440 × 2000 pixels and 106kb.)
+  - The `image` field holds the main site image. (It should be big in resolution but not file size. The placeholder is 1440 × 2000 pixels and 106kb.). We recommend [TinyPNG](https://tinypng.com/) for image crunching.
 
 ### Jekyll (Standalone HTML)
 
