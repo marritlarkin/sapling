@@ -18,12 +18,16 @@ Under **Social**, add new social accounts and URLs. They will appear in the foot
 The **Site Description** setting is used for SEO. Add a short description of your site here.
 
 **Fonts**: Here you can link to Typekit, Typography.com, and Google Fonts.
-Example: `<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/1234567/1234567/css/fonts.css" />`
+
+Example: 
+```html
+<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/1234567/1234567/css/fonts.css" />
+```
 
 **Font Style**: This area is a place for you to add custom CSS for your fonts.
 
 Example:
-```
+```sass
 .footer,
 .header p {
   font-family: "Gotham SSm A","Gotham SSm B";
