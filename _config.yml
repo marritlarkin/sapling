@@ -1,0 +1,21 @@
+---
+title: Site Name
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+social:
+  twitter: 
+  dribbble: 
+  email: 
+exclude: [README.md, Gemfile, Gemfile.lock]
+description: Site Description
+baseurl: 
+url: 
+font: 
+font_style: 
+markdown: kramdown
