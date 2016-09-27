@@ -1,4 +1,4 @@
-# Siteleaf-custom-theme
+# Sapling
 This is a custom theme for Siteleaf. Currently this theme only accounts for a single page with limited content -- meant to serve as a landing page for your home on the internet.
 
 ## This is what it looks like
