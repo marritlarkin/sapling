@@ -4,7 +4,8 @@ This is a custom theme for Siteleaf. Currently this theme only accounts for a si
 ## This is what it looks like
 ![alt text](screenshot.png)
 
-[Here](http://carlaweishale.com/) is a live preview.
+### Live Preview
+[See](http://carlaweishale.com/) it in action. 🔥
 
 ## How to use it
 ### Siteleaf
