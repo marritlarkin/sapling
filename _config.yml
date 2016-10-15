@@ -12,7 +12,10 @@ social:
   twitter: 
   dribbble: 
   email: 
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
 description: Site Description
 baseurl: 
 url: 
